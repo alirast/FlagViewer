@@ -13,6 +13,19 @@
 		0D3CC03829589A4400E786DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3CC03629589A4400E786DD /* Main.storyboard */; };
 		0D3CC03A29589A4500E786DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D3CC03929589A4500E786DD /* Assets.xcassets */; };
 		0D3CC03D29589A4500E786DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3CC03B29589A4500E786DD /* LaunchScreen.storyboard */; };
+		0DD32C1329589B54009EA3AD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD32C1229589B54009EA3AD /* DetailViewController.swift */; };
+		0DD32C2029589C3C009EA3AD /* us.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1429589C3C009EA3AD /* us.png */; };
+		0DD32C2129589C3C009EA3AD /* ireland.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1529589C3C009EA3AD /* ireland.png */; };
+		0DD32C2229589C3C009EA3AD /* france.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1629589C3C009EA3AD /* france.png */; };
+		0DD32C2329589C3C009EA3AD /* italy.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1729589C3C009EA3AD /* italy.png */; };
+		0DD32C2429589C3C009EA3AD /* russia.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1829589C3C009EA3AD /* russia.png */; };
+		0DD32C2529589C3C009EA3AD /* monaco.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1929589C3C009EA3AD /* monaco.png */; };
+		0DD32C2629589C3C009EA3AD /* germany.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1A29589C3C009EA3AD /* germany.png */; };
+		0DD32C2729589C3C009EA3AD /* spain.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1B29589C3C009EA3AD /* spain.png */; };
+		0DD32C2829589C3C009EA3AD /* estonia.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1C29589C3C009EA3AD /* estonia.png */; };
+		0DD32C2929589C3C009EA3AD /* uk.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1D29589C3C009EA3AD /* uk.png */; };
+		0DD32C2A29589C3C009EA3AD /* nigeria.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1E29589C3C009EA3AD /* nigeria.png */; };
+		0DD32C2B29589C3C009EA3AD /* poland.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DD32C1F29589C3C009EA3AD /* poland.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		0D3CC03929589A4500E786DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D3CC03C29589A4500E786DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D3CC03E29589A4500E786DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DD32C1229589B54009EA3AD /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		0DD32C1429589C3C009EA3AD /* us.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = us.png; sourceTree = "<group>"; };
+		0DD32C1529589C3C009EA3AD /* ireland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ireland.png; sourceTree = "<group>"; };
+		0DD32C1629589C3C009EA3AD /* france.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = france.png; sourceTree = "<group>"; };
+		0DD32C1729589C3C009EA3AD /* italy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = italy.png; sourceTree = "<group>"; };
+		0DD32C1829589C3C009EA3AD /* russia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = russia.png; sourceTree = "<group>"; };
+		0DD32C1929589C3C009EA3AD /* monaco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monaco.png; sourceTree = "<group>"; };
+		0DD32C1A29589C3C009EA3AD /* germany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = germany.png; sourceTree = "<group>"; };
+		0DD32C1B29589C3C009EA3AD /* spain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spain.png; sourceTree = "<group>"; };
+		0DD32C1C29589C3C009EA3AD /* estonia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = estonia.png; sourceTree = "<group>"; };
+		0DD32C1D29589C3C009EA3AD /* uk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = uk.png; sourceTree = "<group>"; };
+		0DD32C1E29589C3C009EA3AD /* nigeria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nigeria.png; sourceTree = "<group>"; };
+		0DD32C1F29589C3C009EA3AD /* poland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poland.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +86,22 @@
 				0D3CC03229589A4400E786DD /* SceneDelegate.swift */,
 				0D3CC03429589A4400E786DD /* ViewController.swift */,
 				0D3CC03629589A4400E786DD /* Main.storyboard */,
+				0DD32C1229589B54009EA3AD /* DetailViewController.swift */,
 				0D3CC03929589A4500E786DD /* Assets.xcassets */,
 				0D3CC03B29589A4500E786DD /* LaunchScreen.storyboard */,
 				0D3CC03E29589A4500E786DD /* Info.plist */,
+				0DD32C1C29589C3C009EA3AD /* estonia.png */,
+				0DD32C1629589C3C009EA3AD /* france.png */,
+				0DD32C1A29589C3C009EA3AD /* germany.png */,
+				0DD32C1529589C3C009EA3AD /* ireland.png */,
+				0DD32C1729589C3C009EA3AD /* italy.png */,
+				0DD32C1929589C3C009EA3AD /* monaco.png */,
+				0DD32C1E29589C3C009EA3AD /* nigeria.png */,
+				0DD32C1F29589C3C009EA3AD /* poland.png */,
+				0DD32C1829589C3C009EA3AD /* russia.png */,
+				0DD32C1B29589C3C009EA3AD /* spain.png */,
+				0DD32C1D29589C3C009EA3AD /* uk.png */,
+				0DD32C1429589C3C009EA3AD /* us.png */,
 			);
 			path = FlagViewer;
 			sourceTree = "<group>";
@@ -125,9 +164,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DD32C2929589C3C009EA3AD /* uk.png in Resources */,
+				0DD32C2229589C3C009EA3AD /* france.png in Resources */,
 				0D3CC03D29589A4500E786DD /* LaunchScreen.storyboard in Resources */,
+				0DD32C2129589C3C009EA3AD /* ireland.png in Resources */,
+				0DD32C2029589C3C009EA3AD /* us.png in Resources */,
+				0DD32C2A29589C3C009EA3AD /* nigeria.png in Resources */,
+				0DD32C2429589C3C009EA3AD /* russia.png in Resources */,
+				0DD32C2829589C3C009EA3AD /* estonia.png in Resources */,
+				0DD32C2529589C3C009EA3AD /* monaco.png in Resources */,
 				0D3CC03A29589A4500E786DD /* Assets.xcassets in Resources */,
+				0DD32C2729589C3C009EA3AD /* spain.png in Resources */,
+				0DD32C2B29589C3C009EA3AD /* poland.png in Resources */,
+				0DD32C2329589C3C009EA3AD /* italy.png in Resources */,
 				0D3CC03829589A4400E786DD /* Main.storyboard in Resources */,
+				0DD32C2629589C3C009EA3AD /* germany.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D3CC03529589A4400E786DD /* ViewController.swift in Sources */,
+				0DD32C1329589B54009EA3AD /* DetailViewController.swift in Sources */,
 				0D3CC03129589A4400E786DD /* AppDelegate.swift in Sources */,
 				0D3CC03329589A4400E786DD /* SceneDelegate.swift in Sources */,
 			);
@@ -293,8 +345,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,9 +355,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.testprojectto.FlagViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -321,8 +377,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,9 +387,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.testprojectto.FlagViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
